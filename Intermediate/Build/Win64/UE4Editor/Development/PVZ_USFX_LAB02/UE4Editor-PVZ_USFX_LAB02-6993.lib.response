@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PVZ_USFX_LAB02-6993.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\USUARIO\Downloads\Nueva carpeta (2)\Segundo_Parcial_SIS457-master\Intermediate\Build\Win64\PVZ_USFX_LAB02Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\USUARIO\Downloads\Nueva carpeta (2)\Segundo_Parcial_SIS457-master\Intermediate\Build\Win64\UE4Editor\Development\PVZ_USFX_LAB02\Module.PVZ_USFX_LAB02.cpp.obj"
+"C:\Users\USUARIO\Downloads\Nueva carpeta (2)\Segundo_Parcial_SIS457-master\Intermediate\Build\Win64\UE4Editor\Development\PVZ_USFX_LAB02\Module.PVZ_USFX_LAB02.gen.cpp.obj"
+"C:\Users\USUARIO\Downloads\Nueva carpeta (2)\Segundo_Parcial_SIS457-master\Intermediate\Build\Win64\UE4Editor\Development\PVZ_USFX_LAB02\Default.rc2.res"
+/OUT:"C:\Users\USUARIO\Downloads\Nueva carpeta (2)\Segundo_Parcial_SIS457-master\Intermediate\Build\Win64\UE4Editor\Development\PVZ_USFX_LAB02\UE4Editor-PVZ_USFX_LAB02-6993.lib"
